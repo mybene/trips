@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "552745415978",
+    "firebase_url": "https://twaz-50ec7.firebaseio.com",
+    "project_id": "twaz-50ec7",
+    "storage_bucket": "twaz-50ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552745415978:android:4595debff52aa51b",
+        "android_client_info": {
+          "package_name": "rw.twaza.www.twazaapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552745415978-7cid37f553kbh67vk37m760358qf8fi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rw.twaza.www.twazaapk",
+            "certificate_hash": "c1d300b546068b80530b70c25c7d0ea86c3ab948"
+          }
+        },
+        {
+          "client_id": "552745415978-9nafte7a57b4pkiafhguepegfibds5oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2KkV7Q0CLv_9rB9eC2Gdw9mk5fCWSG6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

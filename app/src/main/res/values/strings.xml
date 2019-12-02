@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TWAZA DRIVER </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_direction_api">AIzaSyCTYSI0cMKmEVmMwPs5oCuyiK3vmq8ltVg</string>
+    <string name="title_activity_teryy">TWAZA</string>
+    <string name="title_activity_driver_map">TWAZA</string>
+    <string name="title_activity_maps2">TWAZA</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_trip_ditailes">Map</string>
+</resources>

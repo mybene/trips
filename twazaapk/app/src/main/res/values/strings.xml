@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TWAZA</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_direction_api">AIzaSyA16bjQx77SbPNzcdbec1fkWl_TjtnVT6c</string>
+</resources>

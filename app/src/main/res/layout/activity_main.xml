@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/background"
+    tools:context="com.twaza.wwww.twazaapk.MainActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/twazaheading"
+        android:text="Twaza"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <TextView
+            android:text="logistics company"
+            android:textSize="16dp"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/txt_rid_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="LOOKING FOR THE CAR TWAZA?"
+        android:textSize="16dp"
+        android:textColor="#fff"
+        android:textAlignment="center"
+
+        />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_margin="16dp"
+        android:weightSum="2"
+        android:layout_above="@id/txt_rid_app"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+
+            android:id="@+id/btnSignIn"
+            android:textSize="20dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/accept"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="sigIN"
+            android:textColor="#fff" />
+
+
+        <Button
+
+            android:id="@+id/btnRegister"
+            android:textSize="15dp"
+            android:layout_marginLeft="130dp"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:background="@drawable/fail"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="REGISITER"
+            android:textColor="#fff" />
+
+
+    </LinearLayout>
+    <ImageView
+        android:paddingBottom="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/aosisi3"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+
+</RelativeLayout>

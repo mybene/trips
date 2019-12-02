@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "642721980577",
+    "firebase_url": "https://trip2-2e4f7.firebaseio.com",
+    "project_id": "trip2-2e4f7",
+    "storage_bucket": "trip2-2e4f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642721980577:android:c9f8d94c343e2a8198d0e0",
+        "android_client_info": {
+          "package_name": "com.twaza.wwww.twazaapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642721980577-a0kcu7thcke1g2pdj24jfhg8v5frprh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twaza.wwww.twazaapk",
+            "certificate_hash": "9c845e9ca19b797b96e003d9eba70eb5f8846edd"
+          }
+        },
+        {
+          "client_id": "642721980577-2o0fq0jp4fd02rpuvtrf487ut9efju2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMEUdeHZUGq2j-hWtYfo6oNCpdHRKUjvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642721980577-2o0fq0jp4fd02rpuvtrf487ut9efju2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
